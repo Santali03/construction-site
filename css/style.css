@@ -120,7 +120,7 @@ section {
   font-size: 2rem;
   color: var(--black);
   text-transform: capitalize;
-  margin: 0 2rem;
+  margin: 0 1rem;
 }
 
 .header .navbar a:hover {
@@ -544,4 +544,5 @@ section {
 }
 
 /*# sourceMappingURL=style.css.map */
+
 
